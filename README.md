@@ -4,6 +4,8 @@
 
 RADARs is a web app that streamlines AI transparency reporting for early-stage startups. By combining smart templates with real-time AI guidance, our tool helps startups align with industry best practices, identify risks, get actionable suggestions, and communicate transparency efforts effectively to stakeholders.
 
+## Project Journey: https://www.yeyufreya.com/projects-radars
+
 ## Getting Started
 
 ### Prerequisites
@@ -34,6 +36,7 @@ Ensure you have:
 ### Step 1: Access the Prototype
 
 - Visit the live prototype here: [https://brightpath-report.webflow.io/](https://brightpath-report.webflow.io/)
+- Prototype video demo: https://drive.google.com/file/d/1GLp1XdFHdvDXPEypbSVq7BnrRL63lyCX/view?usp=sharing
 
 ### Step 2: Enter Basic Information
 
