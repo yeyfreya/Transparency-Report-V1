@@ -4,7 +4,7 @@
 
 RADARs is a web app that streamlines AI transparency reporting for early-stage startups. By combining smart templates with real-time AI guidance, our tool helps startups align with industry best practices, identify risks, get actionable suggestions, and communicate transparency efforts effectively to stakeholders.
 
-## Project Journey: https://www.yeyufreya.com/projects-radars
+Project Journey: https://www.yeyufreya.com/projects-radars
 
 ## Getting Started
 
